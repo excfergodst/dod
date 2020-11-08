@@ -1,0 +1,12 @@
+<map id="/home/travis/build/rishteam/dod/RishEngine/include/Rish/Core/ResManager.h" name="/home/travis/build/rishteam/dod/RishEngine/include/Rish/Core/ResManager.h">
+<area shape="rect" id="node2" href="$ResHolder_8h.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/include/Rish/Core/ResHolder.h" alt="" coords="592,109,799,165"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/main.cpp" alt="" coords="1033,213,1205,269"/>
+<area shape="rect" id="node9" href="$Animation_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/Animation/Animation.cpp" alt="" coords="1016,109,1209,165"/>
+<area shape="rect" id="node10" href="$Editor_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/Animation/Editor/Editor.cpp" alt="" coords="1233,109,1440,165"/>
+<area shape="rect" id="node11" href="$ResManager_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/Core/ResManager.cpp" alt="" coords="1465,109,1643,165"/>
+<area shape="rect" id="node3" href="$RishEngine_8h.html" title="This header should only be include by the CLIENT code. " alt="" coords="5,213,177,269"/>
+<area shape="rect" id="node4" href="$Loader_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/Animation/Loader.cpp" alt="" coords="201,213,376,269"/>
+<area shape="rect" id="node5" href="$ResHolder_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/Core/ResHolder.cpp" alt="" coords="400,213,572,269"/>
+<area shape="rect" id="node7" href="$SFMLImage_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/Platform/SFMLImage.cpp" alt="" coords="597,213,794,269"/>
+<area shape="rect" id="node8" href="$Texture2D_8cpp.html" title="/home/travis/build\l/rishteam/dod/RishEngine\l/src/Renderer/Texture2D.cpp" alt="" coords="819,213,1009,269"/>
+</map>

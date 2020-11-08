@@ -1,0 +1,7 @@
+<map id="rl::ResHolder" name="rl::ResHolder">
+<area shape="rect" id="node2" href="$classrl_1_1ResManager.html" title="rl::ResManager\&lt; sf\l::Sound \&gt;" alt="" coords="5,5,140,47"/>
+<area shape="rect" id="node3" href="$classrl_1_1ResManager.html" title="rl::ResManager\&lt; sf\l::Texture \&gt;" alt="" coords="5,71,140,112"/>
+<area shape="rect" id="node4" href="$classrl_1_1ResManager.html" title="rl::ResManager\&lt; sf\l::rl::Image \&gt;" alt="" coords="5,136,140,177"/>
+<area shape="rect" id="node5" href="$classrl_1_1ResManager.html" title="rl::ResManager\&lt; sf\l::Music \&gt;" alt="" coords="5,201,140,243"/>
+<area shape="rect" id="node6" href="$classrl_1_1ResManager.html" title="rl::ResManager\&lt; sf\l::Font \&gt;" alt="" coords="5,267,140,308"/>
+</map>
